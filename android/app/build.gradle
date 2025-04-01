@@ -159,6 +159,9 @@ android {
                 }
             }
         }
+        manifestPlaceholders = [
+            mapsApiKey: "AIzaSyDqQjvx-iN5bJK-lCfaGCL83G0QI3m5lsU"
+        ]
     }
 
     if (isNewArchitectureEnabled()) {
