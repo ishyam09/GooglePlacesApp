@@ -160,7 +160,7 @@ android {
             }
         }
         manifestPlaceholders = [
-            mapsApiKey: "AIzaSyDqQjvx-iN5bJK-lCfaGCL83G0QI3m5lsU"
+            mapsApiKey: "AIzaSyB_bWO4F1ombWUiVpmqr6rBNmOl52rjmoU"
         ]
     }
 
